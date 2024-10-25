@@ -29,7 +29,6 @@ This workshop intended to gather all the persons interested in knowing more abou
 
 
 ### Part 2, Discussion, chaired by M.-C. Corsi with the speakers (30' Q&A)
-Informal discussion preceeded by a short presentation of the main methodological bottlenecks in BCI.
 
 
 ### Conclusion and closing remarks (1') 
