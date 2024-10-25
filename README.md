@@ -41,10 +41,13 @@ All the questions asked during the session are available [here](TODO)
 ## References & links to go further
 ### Reviews
 - [Roy et al, 2019, JNE](https://doi.org/10.1088/1741-2552/ab260c) - Review of Deep learning approaches used in EEG
+- [Smith & Kutas 2015 I](https://pubmed.ncbi.nlm.nih.gov/25141770/), [Smith & Kutas 20215 II](https://onlinelibrary.wiley.com/doi/abs/10.1111/psyp.12320) - Review paper of rERP, non-linear effects, overlap correction
+- [Crosse et al 2021](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.705621/full) - Review of TRF to continuous stimuli
 
 ### Tools to perform the analysis presented (with tutorials)
 - [Braindecode](https://braindecode.org/stable/index.html) - Open-source Python toolbox for decoding raw electrophysiological brain data with deep learning models
 - [MOABB](https://github.com/NeuroTechX/moabb) - Python package to work with open datasets in order to compare classification pipelines and their replicability
+- [table of rERP/TRF toolboxes](rerp_toolboxes.md) - a (likely incomplete) table of different rERP-toolboxes in python, matlab & julia
   
 ### Groups and events (if relevant)
 - [#EEGManyLabs](https://osf.io/yb3pq/wiki/home/) - international network of researchers to promote replicability of psychological findings from EEG research.
