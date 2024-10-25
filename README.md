@@ -22,10 +22,10 @@ This workshop intended to gather all the persons interested in knowing more abou
 
 ### Welcome & opening remarks (1')
 
-### Part 1, Presentations
-*The modern EEG regression toolkit - rERPs, TRFs, mixed models, and more*, by Benedikt Ehinger (15' talk + 5' Q&A)
+### Part 1, Presentations & access to the slides
+[*The modern EEG regression toolkit - rERPs, TRFs, mixed models, and more*](https://cloud.wirdreibei.de/s/FRAmf98Hd2BRWCw), by Benedikt Ehinger (15' talk + 5' Q&A)
 
-*Decoding electro-mag signals of the brain: progress and challenges of deep learning*, by Jean-Rémi King (15' talk + 5' Q&A)
+[*Decoding electro-mag signals of the brain: progress and challenges of deep learning*](https://slides.com/jrking/cutting-eeg-2024), by Jean-Rémi King (15' talk + 5' Q&A)
 
 
 ### Part 2, Discussion, chaired by M.-C. Corsi with the speakers (30' Q&A)
