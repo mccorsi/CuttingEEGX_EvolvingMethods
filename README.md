@@ -35,7 +35,7 @@ This workshop intended to gather all the persons interested in knowing more abou
 
 
 ## FAQ
-All the questions asked during the session are available [here](TODO)
+All the questions asked during the session are available [here](https://docs.google.com/document/d/1sAhy7a0enr__GVhxqDCuDiSAEFJ1TDZEvKXpkZGDRhA/edit?tab=t.0)
 
 
 ## References & links to go further
